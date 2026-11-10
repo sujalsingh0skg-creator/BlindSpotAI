@@ -1,0 +1,34 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets.env
+
+# Local SQLite databases (may contain real user accounts and encrypted records)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/*.sqlite
+data/*.sqlite3
+*.db
+*.sqlite
+*.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python caches and test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local logs and OS files
+streamlit.stdout.log
+streamlit.stderr.log
+*.log
+.DS_Store
+Thumbs.db

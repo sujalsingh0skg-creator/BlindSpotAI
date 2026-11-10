@@ -267,13 +267,34 @@ Potential future improvements — not claims of already completed functionality:
 
 ## 👨‍💻 Author
 
-**Sujal Singh** · B.Tech CSE (AI & ML)
 
-[GitHub Profile](https://github.com/sujalsingh0skg-creator) · [Project Repository](https://github.com/sujalsingh0skg-creator/BlindSpotAI)
+## 👨‍💻 Project Authors
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Sujal Singh</b><br>
+      B.Tech CSE (AI & ML)<br>
+      <a href="https://github.com/sujalsingh0skg-creator">
+        GitHub Profile ↗
+      </a>
+    </td>
+    <td align="center">
+      <b>Vishesh Yadav</b><br>
+      B.Tech CSE (AI & ML)<br>
+      <a href="https://github.com/vishesh99yadav">
+        GitHub Profile ↗
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
+**BlindSpot AI**  
+*Intelligence in Motion · Built with collaboration*
+
+
 
 ### BlindSpot AI — Plan with clarity. Find gaps early.
 

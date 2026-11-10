@@ -1,0 +1,8 @@
+streamlit>=1.39,<2
+pandas>=2.1,<3
+plotly>=5.24,<7
+networkx>=3.2,<4
+pytest>=8.0,<9
+argon2-cffi>=23.1,<26
+cryptography>=42,<47
+python-dotenv>=1.0,<2

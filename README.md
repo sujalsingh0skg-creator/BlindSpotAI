@@ -265,9 +265,6 @@ Potential future improvements — not claims of already completed functionality:
 4. Commit with a descriptive message.
 5. Open a pull request explaining the change.
 
-## 👨‍💻 Author
-
-
 ## 👨‍💻 Project Authors
 
 <table>
